@@ -72,24 +72,31 @@ df.fillna(method='ffill')
 
 ## IQR
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/f83683b9-a177-4242-8d91-a32a9b26fb75)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/590c1f1a-a378-4f4f-a6ab-6f3d9df24c13)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/8e88d84d-03f2-4a5c-80ee-dbd666f4bf4d)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/47fdaa52-3902-4107-8fbe-9cb35542d30c)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/2d2e1c58-93f2-4aa8-b5e3-c5d11451e5b8)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/c3fbf290-dea1-4429-bcc0-3220ab0ea42c)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/806a7f90-977b-40fb-962d-8e7ce6c1a00e)
 
 ## Z_Score
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/2f2ee367-2c60-4be1-a7cb-945353ce64e9)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/2ec82215-a3a3-42d2-8fe5-9c41ff777c60)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/9edfc79d-c23f-479e-acc6-414ebb0c7e87)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/62f3cc80-1377-43cb-9de9-c6971945f0d4)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/8be85606-1c4b-4e7e-9c4c-5937b6172fca)
+
 ![image](https://github.com/Sriram8452/exno1/assets/118708032/73df2b3c-f05c-4234-8659-ca778f79fe93)
-
-
-
-
 
 
 # Result
