@@ -22,6 +22,10 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
+Developed By: Sriram G
+
+Register Number: 212222230149
+
 ```
 import pandas as pd
 df =pd.read_csv("SAMPLEIDS.csv")
